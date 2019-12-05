@@ -11,8 +11,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, World!")
-        print("# test")
-        print("4 commit")
+        Text("1 text")
     }
 }
 
