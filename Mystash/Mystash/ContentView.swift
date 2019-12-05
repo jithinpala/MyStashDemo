@@ -13,6 +13,7 @@ struct ContentView: View {
         Text("Hello, World!")
         Text("1 text")
         Text("2 text")
+        Text("3 text")
     }
 }
 
